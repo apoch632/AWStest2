@@ -1,4 +1,4 @@
 void main()
 {
-cout << "Hello Worl"
+cout << "Hello World"
 }
